@@ -1,0 +1,12 @@
+{
+  "title":"ytx-lib",
+  "name":"ytx-lib",
+  "author":{
+    "name":"superwolf"
+  },
+  "dependencies":{
+    "underscore":"",
+    "should":"",
+    "coffee-script":""
+  }
+}
